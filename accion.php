@@ -59,4 +59,3 @@ include('mod/html/aplipac.html');
      
   break;
 }
-?>

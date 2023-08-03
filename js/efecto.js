@@ -1,9 +1,4 @@
 $(document).ready(function(){
-
-
-
-
-
     $('#cajauno').hide('')
     $('.boton2').click(function(){
     $('#cajauno').slideDown('slow');
